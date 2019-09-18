@@ -1,0 +1,265 @@
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\bin\Debug\barcode.exe.config
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\bin\Debug\barcode.exe
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\bin\Debug\barcode.pdb
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\bin\Debug\barcode.xml
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.Resources.resources
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.vbproj.GenerateResource.Cache
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.exe.licenses
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.exe
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.xml
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.pdb
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.Form1.resources
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.report.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\bin\Debug\barcode.exe.config
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\bin\Debug\barcode.exe
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\bin\Debug\barcode.pdb
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\bin\Debug\barcode.xml
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.Form1.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.Form2.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.Form3.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.frmBarcodeProd.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.FrmLogin.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.Resources.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.XtraReport1.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.vbproj.GenerateResource.Cache
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.exe.licenses
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.exe
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.xml
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.pdb
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.frmSPKFinish.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.vbprojResolveAssemblyReference.cache
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\bin\Debug\barcode.exe.config
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.exe
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.xml
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.pdb
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\bin\Debug\barcode.exe
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\bin\Debug\barcode.pdb
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\bin\Debug\barcode.xml
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.Form1.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.Form2.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.Form3.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.frmBarcodeProd.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.FrmLogin.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.frmSPKFinish.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.Resources.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.XtraReport1.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.vbproj.GenerateResource.Cache
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.exe.licenses
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\bin\Debug\barcode.exe.config
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.exe
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.xml
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.pdb
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\bin\Debug\barcode.exe
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\bin\Debug\barcode.pdb
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\bin\Debug\barcode.xml
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.Form1.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.Form2.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.Form3.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.frmBarcodeProd.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.FrmLogin.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.frmSPKFinish.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.Resources.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.XtraReport1.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.vbproj.GenerateResource.Cache
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.exe.licenses
+D:\Apps\barcode yang bener\barcode\bin\Debug\barcode.exe.config
+D:\Apps\barcode yang bener\barcode\obj\Debug\barcode.exe
+D:\Apps\barcode yang bener\barcode\obj\Debug\barcode.xml
+D:\Apps\barcode yang bener\barcode\obj\Debug\barcode.pdb
+D:\barcode yang bener\barcode\bin\Debug\barcode.exe.config
+D:\barcode yang bener\barcode\obj\Debug\barcode.exe
+D:\barcode yang bener\barcode\obj\Debug\barcode.xml
+D:\barcode yang bener\barcode\obj\Debug\barcode.pdb
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\barcode.exe.config
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\barcode.exe
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\barcode.pdb
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\barcode.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.CodeParser.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Data.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Office.v17.2.Core.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.RichEdit.v17.2.Export.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Utils.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraBars.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraReports.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Images.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.DataAccess.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraCharts.v17.2.Extensions.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Xpo.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Data.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Office.v17.2.Core.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Utils.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraBars.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraReports.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.DataAccess.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Xpo.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.vbprojResolveAssemblyReference.cache
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.Form1.resources
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.Form2.resources
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.Form3.resources
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.frmBarcodeProd.resources
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.FrmLogin.resources
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.frmSPKFinish.resources
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.Resources.resources
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.XtraReport1.resources
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.vbproj.GenerateResource.Cache
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.exe.licenses
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.exe
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.xml
+D:\Project\Dotnet\barcode yang bener\barcode\obj\Debug\barcode.pdb
